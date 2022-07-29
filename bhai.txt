@@ -1,0 +1,5 @@
+{
+	"ip":hadiabadsmp30.aternos.me
+	"port": 59868
+	"name": sufithepet
+}
